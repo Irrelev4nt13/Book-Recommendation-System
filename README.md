@@ -23,8 +23,8 @@ For this phase, we employ a recommendation system that leverages bigrams and uni
 
 ## Classification:
 
-In this section, we explore classification tasks using Random Forest, Naive Bayes, and Support Vector Classifier (SVC):
-1.  Textual Data Preprocessing: We preprocess textual data using techniques like Word2Vec to convert text into numerical features that can be used for classification.
+In this section, we explore classification tasks using Random Forest, Naive Bayes, and Support Vector Machines (SVMs):
+1.  Textual Data Preprocessing: We preprocess textual data using techniques like glove to convert text into numerical features that can be used for classification.
 2.  Classification Algorithms: We apply Random Forest, Naive Bayes, and SVC to classify books into predefined categories or labels. Each algorithm is evaluated separately.
 3.  Performance Metrics: We evaluate the model performance using standard metrics such as precision, recall, F1-score, and accuracy. These metrics provide insights into how well the classifiers perform in assigning books to their respective categories.
 
